@@ -3,8 +3,8 @@
     "whatsNewUrl": "https://wolvic.com/blog/release_1.3.3",
     "environments": [
       {
-        "value": "wolvic",
-        "title": "Wolvic",
+        "value": "testing_env",
+        "title": "Testing Env",
         "thumbnail": "https://javifernandez.github.io/wolvic-environments/testing_env/testing_env.jpg",
         "payload": "https://javifernandez.github.io/wolvic-environments/testing_env/testing_env.zip"
       }
