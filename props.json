@@ -3,9 +3,9 @@
     "whatsNewUrl": "https://wolvic.com/blog/release_1.3.3",
     "environments": [
       {
-        "value": "testing_env",
-        "title": "Testing Env",
-        "thumbnail": "https://javifernandez.github.io/wolvic-environments/winter/winter.jpg",
+        "value": "Winter",
+        "title": "Winter Env",
+        "thumbnail": "https://javifernandez.github.io/wolvic-environments/winter/thumbnail.jpg",
         "payload": "https://javifernandez.github.io/wolvic-environments/winter/winter.zip"
       }
     ]
