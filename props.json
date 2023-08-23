@@ -3,16 +3,10 @@
     "whatsNewUrl": "https://wolvic.com/blog/release_1.4",
     "environments": [
       {
-        "value": "skybox_r90",
-        "title": "Skybox  R90",
-        "thumbnail": "https://javifernandez.github.io/wolvic-environments/skybox_r90/skybox_r90.png",
-        "payload": "https://javifernandez.github.io/wolvic-environments/skybox_r90/skybox_r90.zip"
-      },
-      {
-        "value": "bluemarble",
-        "title": "Blue Marble",
-        "thumbnail": "https://javifernandez.github.io/wolvic-environments/bluemarble/bluemarble.jpeg",
-        "payload": "https://javifernandez.github.io/wolvic-environments/bluemarble/bluemarble.zip"
+        "value": "spring",
+        "title": "Spring",
+        "thumbnail": "https://javifernandez.github.io/wolvic-environments/spring/spring.png",
+        "payload": "https://javifernandez.github.io/wolvic-environments/spring/spring.zip"
       }
     ]
   },
